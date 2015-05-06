@@ -1,0 +1,63 @@
+/********************************************************************************************************************
+* This script is brought to you by Vasplus Programming Blog by whom all copyrights are reserved.
+* Website: www.vasplus.info
+* Email: info@vasplus.info
+* Please, do not remove this information from the top of this page.
+*********************************************************************************************************************/
+
+
+#vasplus_programming_blog_wrapper 
+{
+	width:430px;
+	height:auto;
+	padding:10px; 
+	margin: 0 auto;
+	border: solid 1px #cbcbcb;
+	 background-color: #FFF;
+	 box-shadow: 0 2px 20px #cbcbcb;
+	-moz-box-shadow: 0 2px 20px #cbcbcb;
+	-webkit-box-shadow: 0 2px 20px #cbcbcb;
+	-webkit-border-radius: 15px 15px; 15px 15px;-moz-border-radius: 15px 15px; 15px 15px;border-radius: 15px 15px; 15px 15px;
+    margin: 0 auto;
+	text-align:center;
+	position:relative;
+	padding-top:20px;
+	padding-bottom:0px;
+	padding-left:30px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:11px;
+}
+@font-face {
+font-family:'treasure';
+src:url(Treamd.ttf);
+}
+.btn {
+background:url('btnbg.png');
+width:200px;
+height:51px;
+font-size:24pt;
+font-family:treasure;
+}
+
+
+/*Input Box Style*/
+.vasplus_blog_form_opt { width:350px;box-shadow: 0 0 6px #666666;-moz-box-shadow: 0 0 6px #666666;-webkit-box-shadow: 0 0 6px #666666;font-family:treasure; font-size:24pt;; font-weight:normal;height:48px; padding:3px;padding-left:10px;padding-right:10px; padding-top:2px;border: 0px solid  #F1F1F1;outline:none;border-radius: 5px;-moz-border-radius: 5px;-webkit-border-radius:5px;background-color:#edddbb;}.vasplus_blog_form_opt:focus {outline:none;border: 0px solid #4195fc;box-shadow: 0 0 12px #66F;-moz-box-shadow: 0 0 12px #66F;-webkit-box-shadow: 0 0 12px #66F;}
+
+
+/*Error or Success Message Style*/
+.info{width:180px;font-family:treasure; font-size:18pt;background:#edddbb; border:1px solid #F1F1F1;-webkit-border-radius: 10px;-moz-border-radius: 10px;border-radius: 10px;}
+
+/*Links Style*/
+.ccc A:link { color:blue;text-decoration: none; font-family:Verdana, Geneva, sans-serif; font-size:13px; font-weight:bold; line-height:20px;}
+.ccc A:visited {color:blue;text-decoration: none;font-family:Verdana, Geneva, sans-serif; font-size:13px; font-weight:bold;line-height:20px;}
+.ccc A:active {color:blue;text-decoration: none;font-family:Verdana, Geneva, sans-serif; font-size:13px; font-weight:bold;line-height:20px;}
+.ccc A:hover {text-decoration: underline;color: blue;} 
+
+
+/*For Error Messages*/
+#vpb_info { width:480px; text-align:left;border: 1px solid #999; padding:8px 10px 8px 10px; font: bold 12px verdana;-moz-box-shadow: 0 0 5px #888; -webkit-box-shadow: 0 0 5px#888;box-shadow: 0 0 5px #888;text-shadow: 2px 2px 2px #ccc;-webkit-border-radius: 10px;-moz-border-radius: 10px;border-radius: 10px;font-family:Verdana, Geneva, sans-serif; font-size:11px; line-height:20px;font-weight:normal;color: black;background: #BDE5F8;}
+
+
+
+/*Vasplus Button*/
+
