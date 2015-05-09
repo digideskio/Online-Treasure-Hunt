@@ -1,9 +1,3 @@
-/********************************************************************************************************************
-* This script is brought to you by Vasplus Programming Blog by whom all copyrights are reserved.
-* Website: www.vasplus.info
-* Email: info@vasplus.info
-* Please, do not remove this information from the top of this page.
-*********************************************************************************************************************/
 
 
 
